@@ -1,5 +1,5 @@
 {
-    "name": "jair.foro/mars-hover-challenge",
+    "name": "jair.foro/php-mars-hover-challenge",
     "require": {
         "php": ">= 8.0"
     },
